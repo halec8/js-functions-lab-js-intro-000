@@ -3,5 +3,5 @@ function happyHolidays () {
   return "Happy holidays!"
 }
 function happyHolidaysto(Shianna) {
-  return "Happy holidays!" + $(name)
+  return "Happy holidays + $(name)!"
 }
