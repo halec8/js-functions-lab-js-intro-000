@@ -4,6 +4,5 @@ function happyHolidays () {
 }
 function happyHolidaysto (name) {
 var name = Shianna
-  return "Happy holidays!", + name 
+  return "Happy holidays!", + name
 }
-
